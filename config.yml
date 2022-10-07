@@ -23,8 +23,8 @@ params:
     buttons:
       - name: Blog
         url: "/posts/"
-      - name: Tags
-        url: "/tags/"
+      # - name: Tags
+      #   url: "/tags/"
       - name: Archive
         url: "/archives/"
 
