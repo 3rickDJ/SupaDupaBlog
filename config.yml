@@ -1,0 +1,72 @@
+baseURL: ""
+languageCode: en-us
+title: Erick's Code
+theme: PaperMod
+params:
+  editPost:
+      # URL: "https://github.com/<path_to_repo>/content"
+      URL: "https://github.com/3rickDJ/Graficasao"
+      Text: "Suggest Changes" # edit text
+      appendFilePath: false # to append file path to Edit link
+  # defaultTheme: auto
+  fuseOpts:
+    keys: ["title", "permalink", "summary", "content"]
+
+  profileMode:
+    enabled: true
+    title: "Erick De Jesus"
+    subtitle: "🌮 | 3rickDJ  | 🐶"
+    imageUrl: "img/profile.jpg"
+    imageTitle: "Foto de perfil"
+    # imageWidth: 120
+    # imageHeight: 120
+    buttons:
+      - name: Blog
+        url: "/posts/"
+      - name: Tags
+        url: "/tags/"
+      - name: Archive
+        url: "/archives/"
+
+  author: ["3rickDJ"]
+  socialIcons:
+    - name: github
+      url: "https://github.com/3rickDJ/"
+    - name: twitter
+      url: "https://twitter.com/Ericks_Jesus"
+    - name: instagram
+      url: "https://www.instagram.com/3rick_djm/"
+
+  cover:
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  linkFullImages: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: search
+      weight: 40
+      name: search
+      url: /search/
