@@ -8,9 +8,9 @@ paginate: 4
 params:
   editPost:
       # URL: "https://github.com/<path_to_repo>/content"
-      URL: "https://github.com/3rickDJ/Graficasao"
-      Text: "Suggest Changes" # edit text
-      appendFilePath: false # to append file path to Edit link
+      URL: "https://github.com/3rickDJ/SupaDupaBlog/tree/main/content/"
+      Text: "Sugerir Cambios" # edit text
+      appendFilePath: true # to append file path to Edit link
   # defaultTheme: auto
   fuseOpts:
     keys: ["title", "permalink", "summary", "content"]
@@ -18,7 +18,7 @@ params:
   profileMode:
     enabled: true
     title: "Erick De Jesus"
-    subtitle: "🌮  3rickDJ   🐶"
+    subtitle: "  3rickDJ   🐶"
     imageUrl: "img/profile.jpg"
     imageTitle: "Foto de perfil"
     # imageWidth: 120
