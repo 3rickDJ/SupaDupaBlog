@@ -18,7 +18,7 @@ params:
   profileMode:
     enabled: true
     title: "Erick De Jesus"
-    subtitle: "🌮 | 3rickDJ  | 🐶"
+    subtitle: "🌮  3rickDJ   🐶"
     imageUrl: "img/profile.jpg"
     imageTitle: "Foto de perfil"
     # imageWidth: 120
