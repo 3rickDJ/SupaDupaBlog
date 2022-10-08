@@ -3,6 +3,9 @@ languageCode: en-us
 title: Erick's Code
 theme: PaperMod
 publishDir: docs
+relativeURLs: true
+canonifyURLs: true
+paginate: 4
 params:
   editPost:
       # URL: "https://github.com/<path_to_repo>/content"
