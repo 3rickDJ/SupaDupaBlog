@@ -1,0 +1,7 @@
+.footer a {
+    color: inherit;
+    border-bottom: none;
+}
+.footer a:hover {
+    border-bottom: none;
+}
