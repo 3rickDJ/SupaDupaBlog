@@ -24,7 +24,7 @@ Heading 2 Y este sería otro párrafo</description>
       
       <guid>/posts/second/</guid>
       <description>Cómo agragar una imagen al post? Simplemente lo agregas a través del frontMatter, con una ruta especial dentro de tu carpeta static. Luego lo referencias así:
-image: &amp;#39;img/skehtcAnimation.png&amp;#39; alt: &amp;#39;this is a post image&amp;#39; caption: &amp;#39;close caption?&amp;#39; </description>
+image: &#39;img/skehtcAnimation.png&#39; alt: &#39;this is a post image&#39; caption: &#39;close caption?&#39; </description>
     </item>
     
   </channel>
