@@ -2,8 +2,8 @@ baseURL: "https://3rickdj.github.io/SupaDupaBlog/"
 languageCode: en-us
 title: Erick's Code
 theme: PaperMod
-relativeURLs: true
 canonifyURLs: true
+relativeURLs: true
 paginate: 4
 params:
   editPost:
@@ -59,17 +59,17 @@ menu:
   main:
     - identifier: categories
       name: Categories
-      url: "/categories/"
+      url: /categories/
       weight: 10
     - identifier: tags
       name: Tags
-      url: "/tags/"
+      url: /tags/
       weight: 20
     - identifier: archives
       name: Archives
-      url: "/archives/"
+      url: /archives/
       weight: 30
     - identifier: search
       weight: 40
       name: search
-      url: "/search/"
+      url: /search/
