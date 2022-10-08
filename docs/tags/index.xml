@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Erick&#39;s Code</title>
-    <link>/tags/</link>
+    <link>https://3rickdj.github.io/SupaDupaBlog/tags/</link>
     <description>Recent content in Tags on Erick&#39;s Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Oct 2022 12:07:56 -0500</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 12:07:56 -0500</lastBuildDate><atom:link href="https://3rickdj.github.io/SupaDupaBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>https://3rickdj.github.io/SupaDupaBlog/tags/css/</link>
       <pubDate>Sun, 02 Oct 2022 12:07:56 -0500</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>https://3rickdj.github.io/SupaDupaBlog/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css advanced</title>
-      <link>/tags/css-advanced/</link>
+      <link>https://3rickdj.github.io/SupaDupaBlog/tags/css-advanced/</link>
       <pubDate>Sun, 02 Oct 2022 12:07:56 -0500</pubDate>
       
-      <guid>/tags/css-advanced/</guid>
+      <guid>https://3rickdj.github.io/SupaDupaBlog/tags/css-advanced/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>https://3rickdj.github.io/SupaDupaBlog/tags/html/</link>
       <pubDate>Sun, 02 Oct 2022 12:07:56 -0500</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://3rickdj.github.io/SupaDupaBlog/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html advanced</title>
-      <link>/tags/html-advanced/</link>
+      <link>https://3rickdj.github.io/SupaDupaBlog/tags/html-advanced/</link>
       <pubDate>Sun, 02 Oct 2022 12:07:56 -0500</pubDate>
       
-      <guid>/tags/html-advanced/</guid>
+      <guid>https://3rickdj.github.io/SupaDupaBlog/tags/html-advanced/</guid>
       <description></description>
     </item>
     
