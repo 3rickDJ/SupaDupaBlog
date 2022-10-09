@@ -44,7 +44,8 @@ params:
   ShowBreadCrumbs: true
   ShowReadingTime: true
   linkFullImages: true
-  ShowShareButtons: false
+  ShowShareButtons: true
+  ShareButtons: ["twitter", "linkedin","whatsapp" ]
   ShowPostNavLinks: true
   ShowCodeCopyButtons: true
   ShowToc: true
