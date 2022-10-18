@@ -2,8 +2,8 @@ baseURL: "https://3rickdj.github.io/SupaDupaBlog/"
 languageCode: en-us
 title: Erick's Code
 theme: PaperMod
-canonifyURLs: true
-relativeURLs: true
+# canonifyURLs: true
+# relativeURLs: true
 paginate: 4
 params:
   editPost:
