@@ -2,6 +2,7 @@
 title: "Guía de Git"
 date: 2022-10-08T12:07:56-05:00
 draft: false
+summary: "Aprende qué es git. El sistema de control de versiones más famoso. Controla tus proyectos y colabora con tus amigos de forma asincrona no lineal! Herramienta vital para el desarrollo de software"
 description: Controla tus proyectos con Git.
 cover:
     image: 'img/posts/Git/git.png'
@@ -42,9 +43,12 @@ Con git puedes:
 
 Git se divide en estados
 
-### Estados de git
+### Estados en git
 
-//explicacion de los comandos
++ Area de trabajo
++ Area de Staging
++ Area de repositorio local
+
 
 Cómo paso de un estado a otro?
 

@@ -2,11 +2,12 @@
 title: "Guía de MarkDown"
 date: 2022-10-02T12:07:56-05:00
 draft: false
-description: Aquí aprenderás de forma básica lo que te permite hacer MarkDown
+summary: Descrubre los comandos básicos del lenguaje de marcado MarkDown, simple pero poderoso.
+description: Aquí aprenderás los básicos de MarkDown
 cover:
-    image: 'img/sketchAnimation.png'
-    alt: 'this is a post image'
-    caption: 'close caption?'
+    image: 'img/posts/Markdown/logoMarkdown.png'
+    alt: ''
+    caption: ''
 categories: ["tech"]
 tags: ["MarkDown", "GoHugo"]
 
@@ -192,13 +193,3 @@ Equivalente a:
     - Tacos
 - Agua
 - Aire
-
-
-# Cómo agragar una imagen al post?<!--{{{-->
-
-Simplemente lo agregas a través del frontMatter, con una ruta especial dentro de tu carpeta static. Luego lo referencias así:
-```
-image: 'img/skehtcAnimation.png'
-    alt: 'this is a post image'
-    caption: 'close caption?'
-```<!--}}}-->
