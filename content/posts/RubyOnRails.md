@@ -4,7 +4,7 @@ date: December 9, 2022
 description: "Place here your description"
 summary: "place your summary here"
 categories:
-draft: true
+draft: false
 cover:
     image: 'img/sketchAnimation.png'
     alt: 'this is a post image'
