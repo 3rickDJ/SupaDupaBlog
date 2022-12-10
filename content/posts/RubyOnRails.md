@@ -5,14 +5,9 @@ description: "Place here your description"
 summary: "place your summary here"
 categories:
 draft: false
-cover:
-    image: 'img/sketchAnimation.png'
-    alt: 'this is a post image'
-    caption: 'close caption?'
-categories: ["Example"]
-tags: ["Down", "Goooo"]
-keywords: ["One",]
-
+categories: ["framework", "web"]
+tags: ["Ruby", "Rails"]
+keywords: ["Ruby","Rails", "framework", "RubyOnRails", "RoR"]
 ---
 
 # RubyOnRails
