@@ -5,6 +5,8 @@ theme: PaperMod
 # canonifyURLs: true
 # relativeURLs: true
 paginate: 4
+disqusShortname: supadupa-blog
+comments: true
 params:
   editPost:
       # URL: "https://github.com/<path_to_repo>/content"
