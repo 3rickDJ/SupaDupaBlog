@@ -5,16 +5,12 @@ description: "Place here your description"
 summary: "place your summary here"
 categories:
 draft: true
-cover:
-    image: 'img/sketchAnimation.png'
-    alt: 'this is a post image'
-    caption: 'close caption?'
-categories: ["Example"]
-tags: ["Down", "Goooo"]
-keywords: ["One",]
+categories: [""]
+tags: [""]
+keywords: [""]
 
 ---
 
 # {{ replace .Name "-" " "}}
 
-## Sub
+## 
