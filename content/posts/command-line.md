@@ -6,7 +6,7 @@ summary: "Herramienta fundamental de un buen developer"
 categories:
 draft: false
 cover:
-    image: 'img/sketchAnimation.png'
+    image: 'img/sketchAnimation.jpeg'
     alt: 'this is a post image'
     caption: 'close caption?'
 categories: ["Example"]
@@ -33,7 +33,7 @@ La **linea de comandos** o **command line interpreter**, en términos simples es
 
 Es el caracter que se encuentra en la linea de comandos, para indicar que está a la espera de un comando.
 
-## Consola
+## Console
 
 
 
