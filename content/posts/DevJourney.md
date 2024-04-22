@@ -134,5 +134,12 @@ However, I met Jose R. Zuñiga (@neodevelop) and with the help of MakingDevs, I 
 ## CI/CD
 ### QA, Stage, Production
 #### Capistrano
-#### ssh (no interactive shell) 
+#### ssh (no interactive shell)
 #### deployment
+### Github CICD
+## AWS
+### EC2
+### APP RUNNER
+## GCP
+### Cloud build
+### Cloud run
