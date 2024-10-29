@@ -1,6 +1,6 @@
 ---
 title: "BlockChain"
-date: September 6, 2023
+date: 2023-09-06
 description: "Qué es el blockchain, qué es un nft, cómo funcionan, cómo me puedo beneficiar, por qué debería de aprenderlo"
 summary: "En mi trabajo surgió un nuevo proyecto de boletos con blockchain y nft's. Idea de Jorge Sanchez. Este es el inicio donde no tenía claro que era un blockchain, y aún no tengo claro que es un nft. Todos hemos escuchado Non-Foundable-Token... Pero a qué se refiere y por qué me debería de importar"
 draft: true

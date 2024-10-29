@@ -1,6 +1,6 @@
 ---
 title: "Command Line Interpreter"
-date: October 28, 2022
+date: 2022-10-28
 description: "Place here your description"
 summary: "Herramienta fundamental de un buen developer"
 categories:

@@ -1,6 +1,6 @@
 ---
 title: "DevJourney"
-date: March 20, 2023
+date: 2023-03-20
 description: "The theme journey I've gone through."
 summary: "place your summary here"
 categories:

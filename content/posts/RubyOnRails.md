@@ -1,6 +1,6 @@
 ---
 title: "RubyOnRails"
-date: December 9, 2022
+date: 2022-12-09
 description: "Place here your description"
 summary: "place your summary here"
 categories:
