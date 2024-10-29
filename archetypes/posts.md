@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date | time.Format ":date_long" }}
+date: {{ .Date }}
 description: "Place here your description"
 summary: "place your summary here"
 categories:
@@ -13,4 +13,4 @@ keywords: [""]
 
 # {{ replace .Name "-" " "}}
 
-## 
+##
