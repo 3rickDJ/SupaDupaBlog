@@ -4,7 +4,6 @@ title: Erick's Code
 theme: PaperMod
 # canonifyURLs: true
 # relativeURLs: true
-paginate: 4
 disqusShortname: supadupa-blog
 params:
   comments: true
