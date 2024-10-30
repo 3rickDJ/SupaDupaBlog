@@ -38,7 +38,7 @@ params:
       #   url: "archives/"
 
   author: ["3rickDJ"]
-  socialIcons:
+  social:
     - name: github
       url: "https://github.com/3rickDJ/"
     - name: twitter
