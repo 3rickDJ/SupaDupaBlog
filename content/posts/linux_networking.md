@@ -11,7 +11,7 @@ keywords: [""]
 
 ---
 
-# linux_networking
+# linux networking
 
 This is a recopilation of commands and its executiong based on the book `THE GORILLA GUIDE TO LINUX
 NETWORKING 101`
