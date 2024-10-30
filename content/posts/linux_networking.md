@@ -1,8 +1,8 @@
 ---
-title: "Linux_networking"
+title: "Linux networking"
 date: 2024-10-29T09:20:42-06:00
-description: "Place here your description"
-summary: "place your summary here"
+description: ""
+summary: ""
 categories:
 draft: false
 categories: [""]
@@ -13,7 +13,8 @@ keywords: [""]
 
 # linux_networking
 
-Esta es una recopilación de los comandos y su ejecución basado en el libro `THE GORILLA GUIDE TO LINUX NETWORKING 101`
+This is a recopilation of commands and its executiong based on the book `THE GORILLA GUIDE TO LINUX
+NETWORKING 101`
 
 ## Chapter 2
 
