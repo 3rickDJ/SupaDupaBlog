@@ -14,6 +14,11 @@ params:
       appendFilePath: true # to append file path to Edit link
   # defaultTheme: auto
   fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 100
+    threshold: 0.4
     keys: ["title", "permalink", "summary", "content"]
 
   profileMode:
@@ -29,8 +34,8 @@ params:
         url: "posts/"
       # - name: Tags
       #   url: "/tags/"
-      - name: Archive
-        url: "archives/"
+      # - name: Archive
+      #   url: "archives/"
 
   author: ["3rickDJ"]
   socialIcons:
@@ -42,6 +47,9 @@ params:
       url: "https://www.instagram.com/3rick_djm/"
 
   cover:
+    responsiveImages: true
+
+    linkFullImages: true
   ShowBreadCrumbs: true
   ShowReadingTime: true
   linkFullImages: true
@@ -55,23 +63,27 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON # is necessary for search
 
 menu:
   main:
-    - identifier: categories
-      name: Categories
-      url: "categories/"
-      weight: 10
-    - identifier: tags
-      name: Tags
-      url: "tags/"
-      weight: 20
-    - identifier: archives
-      name: Archives
-      url: "archives/"
-      weight: 30
-    - identifier: search
+    # - identifier: categories
+    #   name: Categories
+    #   url: "categories/"
+    #   weight: 10
+    # - identifier: tags
+    #   name: Tags
+    #   url: "tags/"
+    #   weight: 20
+    # - identifier: archives
+    #   name: Archives
+    #   url: "archives/"
+    #   weight: 30
+    - identifier: blog
+      name: Blog
+      url: "posts/"
       weight: 40
+    - identifier: search
+      weight: 50
       name: search
       url: "search/"
